@@ -17,7 +17,7 @@
                 "properties": {
                   "type": "Lakehouse",
                   "typeProperties": {
-                    "artifactId": "57e5f600-0f64-a0f7-443c-50954bc16e0e",
+                    "artifactId": "2f05e897-0351-ad18-4294-31207be431ad",
                     "workspaceId": "00000000-0000-0000-0000-000000000000",
                     "rootFolder": "Tables"
                   },
@@ -46,7 +46,7 @@
                 "properties": {
                   "type": "Lakehouse",
                   "typeProperties": {
-                    "artifactId": "d9e229e5-baf8-b574-4b6f-a1a3eda0d7dd",
+                    "artifactId": "da96e66b-57b6-95ce-44f5-9ac3d7f2745e",
                     "workspaceId": "00000000-0000-0000-0000-000000000000",
                     "rootFolder": "Tables"
                   },
