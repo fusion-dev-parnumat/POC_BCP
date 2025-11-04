@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "nb_poc"
+    "displayName": "nb_prod"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "95a1686a-c708-b734-48b4-46ee4ad3e64f"
+    "logicalId": "a39cab11-3806-ae83-4cfa-3aa02e450bf2"
   }
 }
